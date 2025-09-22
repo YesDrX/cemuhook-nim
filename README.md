@@ -44,7 +44,7 @@ The implementation supports the complete CEMUHook message protocol:
 
 ## Installation
 ```
-nimble install ...
+nimble install https://github.com/YesDrX/cemuhook-nim.git
 ```
 ### Prerequisites
 
