@@ -58,7 +58,7 @@ nim r tests/debug.nim
 ```
 
 ### SDL2 Setup for SDL2 example
-Download the SDL2 binary (`.dll` for Windows, `.so` for Linux) from the [SDL2 GitHub releases](https://github.com/libsdl-org/SDL2/releases) and place it next to your executable or in your system PATH.
+Download the SDL2 binary (`.dll` for Windows, `.so` for Linux) from the [SDL2 GitHub releases](https://github.com/libsdl-org/SDL/releases) and place it next to your executable or in your system PATH.
 
 ## Usage
 
